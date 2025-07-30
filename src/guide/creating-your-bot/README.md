@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Create the main file
+xian: Create the main file
 description: Create the main file for your bot
 ---
 
